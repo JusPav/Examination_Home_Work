@@ -1,0 +1,23 @@
+{
+  "exam" : {
+    "examId" : 12321,
+    "examName" : "Naujas",
+    "examType" : "Kazkoks"
+  },
+  "examAnswers" : [ {
+    "questionNumb" : 1,
+    "correctAnswers" : "A"
+  }, {
+    "questionNumb" : 2,
+    "correctAnswers" : "B"
+  }, {
+    "questionNumb" : 3,
+    "correctAnswers" : "C"
+  }, {
+    "questionNumb" : 4,
+    "correctAnswers" : "D"
+  }, {
+    "questionNumb" : 5,
+    "correctAnswers" : "A"
+  } ]
+}

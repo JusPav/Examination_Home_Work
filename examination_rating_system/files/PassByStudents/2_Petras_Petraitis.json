@@ -1,0 +1,19 @@
+{
+  "exam" : {
+    "examId" : 12321,
+    "examName" : "Naujas",
+    "examType" : "Kazkoks"
+  },
+  "student" : {
+    "name" : "Petras",
+    "surname" : "Petraitis",
+    "id" : 2
+  },
+  "studentAnswers" : {
+    "1" : "A",
+    "2" : "A",
+    "3" : "A",
+    "4" : "A",
+    "5" : "A"
+  }
+}

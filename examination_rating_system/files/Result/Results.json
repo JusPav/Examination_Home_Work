@@ -1,0 +1,18 @@
+{
+  "exam" : {
+    "examId" : 12321,
+    "examName" : "Naujas",
+    "examType" : "Kazkoks"
+  },
+  "rateStudents" : [ {
+    "name" : "Jonas",
+    "surname" : "Jonaitis",
+    "rating" : 10,
+    "id" : 1
+  }, {
+    "name" : "Petras",
+    "surname" : "Petraitis",
+    "rating" : 4,
+    "id" : 2
+  } ]
+}
